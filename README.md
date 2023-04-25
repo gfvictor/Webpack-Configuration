@@ -4,6 +4,6 @@ Making life easier when it comes to create a new webpack-config.js! Just copy th
 
 
 
-PT-BR <br>
+(PT-BR) <br>
 Perfil básico de webpack-config
 Tornando a vida mais fácil quando se trata de criar um novo arquivo de webpack-config.js! Só copiar e modificar para suas necessidades.
